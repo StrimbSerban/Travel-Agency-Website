@@ -1,0 +1,735 @@
+
+html,body,head {
+    margin: 0;
+    padding: 0;
+  }  
+#poza1{
+    height: 1080px;
+    width: 1903px;
+}
+#p1{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    color: white;
+    font-size: 20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#p2{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+#b1{
+    padding: 10px 30px;
+    border-radius: 100px;
+    font-size: 20px;
+    color:3D5CCD;
+}
+#p3{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    word-spacing: 150px;
+    font-size: 25px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    word-spacing: 150px;
+}
+#p4{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: wheat;
+    font-size: 75px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+#p5{position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: wheat;
+    font-size: 75px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#p6{
+    position:absolute;
+    top:1200px;
+    left: 200px;
+    font-size: 40px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#poza2{
+    height: 846;
+    width: 564;
+    position: absolute;
+    top: 1350;
+    left: 200px;
+}
+#poza3{
+    height: 408;
+    width: 625;
+    position: absolute;
+    top: 1350;
+    right: 200px;
+}
+#poza4{
+    height: 954;
+    width: 625;
+    position: absolute;
+    top: 1800;
+    right: 200px;
+}
+#poza5{
+    height: 522;
+    width: 564;
+    position: absolute;
+    top: 2232;
+    left: 200px;
+}
+#p7{
+    position: absolute;
+    top: 2800px;
+    right: 200px;
+    font-size: 40;
+    color: black;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#p8{
+    position: absolute;
+    top: 3590px;
+    right: 200px;
+    transform: translate(-500%, -50%);
+    font-size: 40;
+    color: black;   
+}
+#t3{
+    position: absolute;
+    top: 3600px;
+    left:680 ;
+    font-size: 20;
+    color: black;
+    text-align: center;
+    width: 500;
+    height: 350;
+    border: 1px solid white;
+
+}
+#p9{
+    text-align: center;
+    
+}
+#poza6{
+    height: 1002;
+    width: 566;
+    position: absolute;
+    top: 3469   ;
+    left: 104px;
+    transform: rotate(-40deg);
+    opacity: 0.45;
+}
+#poza7{
+    height: 566;
+    width: 900;
+    position: absolute;
+    top: 3680;
+    right: 40;
+    transform: rotate(-55deg);
+    opacity: 0.45;
+}
+#t4{
+    position: absolute;
+    top: 4100px;
+    left:680 ;
+    font-size: 20;
+    color: black;
+    text-align: center;
+    width: 500;
+    height: 350;
+    border:blueviolet;
+}
+#p10{
+    text-align: center;
+}
+#d2 {
+    width: 1908x;
+    height: 19%;
+    background-color: black;
+    opacity: .5;
+    position: relative;
+    top: 3375;
+  }
+#p11{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    color: white;
+    font-size: 20px;
+}
+    
+#t10{
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    color: white;
+}
+
+#d1{
+    width: 480;
+    height: 100;
+    background-color: whitesmoke;
+    position: relative;
+    top: 2000;
+    left: 250;
+    opacity: .9;
+    border-radius: 50px;
+    box-shadow: 5px 10px 5px gray;
+}
+#p12{
+    position: relative;
+    left: 50;
+    top: 25;
+    color: black;
+}
+/*----------------Pagina Home --------------------------------------------------*/
+#pozaDestinatii1{
+    width: 1900;
+    height: 800;
+}
+#p20{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    color: white;
+    font-size: 20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#p21{
+    position: absolute;
+    top: 25px;
+    right: 50px;
+}
+#p22{
+    position: absolute;
+    top: 80px;
+    right: 50px;
+}
+#b20{
+    padding: 10px 30px;
+    border-radius: 100px;
+    font-size: 20px;
+    color:3D5CCD;
+}
+#b21{
+    padding: 10px 30px;
+    border-radius: 100px;
+    font-size: 20px;
+    color:3D5CCD;
+}
+#p23{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    color: wheat;
+    font-size: 75px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#t20{
+    border-radius: 50;
+}
+#d20 {
+    position: absolute;
+    top:70%;
+    left: 20%;
+    right: 20%;
+    background-color: whitesmoke;
+    height: 250px;
+    box-shadow: 20px 20px 10px grey;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px ;
+  }
+  #d21{
+    position: absolute;
+    top:40%;
+    left: 10%;
+    font-weight: bold;
+}
+#d22{
+    position: absolute;
+    top:60%;
+    left: 10%;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    appearance: none;
+    background-color: #fff;
+    cursor:pointer;
+    padding: 10px 30px;
+}
+#d23{
+    position: absolute;
+    top:40%;
+    left: 30%;
+    font-weight: bold;
+}
+#d24{
+    position: absolute;
+    top:60%;
+    left: 30%;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    appearance: none;
+    background-color: #fff;
+    cursor:pointer;
+    padding: 10px 30px;
+}
+#d25{
+    position: absolute;
+    top:40%;
+    left: 50%;
+    font-weight: bold;
+}
+#d26{
+    position: absolute;
+    top:60%;
+    left: 50%;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    appearance: none;
+    background-color: #fff;
+    cursor:pointer;
+    padding: 10px 30px;
+}
+#d27{
+    position: absolute;
+    top:40%;
+    left: 70%;
+    font-weight: bold;
+}
+#d28{
+    position: absolute;
+    top:60%;
+    left: 70%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    appearance: none;
+    background-color: #fff;
+    cursor:pointer;
+}
+#d29{
+    position: absolute;
+    top:45%;
+    left: 90%;
+}
+#p24{
+    position: absolute;
+    top: 1100;
+    left: 20%;
+    font-size: 30;
+}
+#Destinatii1{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 1200px;
+    left: 20%;
+}
+#Destinatii2{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 1200px;
+    left: 44%;
+}
+#Destinatii3{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 1200px;
+    right: 20%;
+}
+#di20{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 1574;
+    left: 20%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#di21{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 1574;
+    left: 44%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#di22{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 1574;
+    right: 20%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#Destinatii4{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 1800px;
+    left: 20%;
+}
+#Destinatii5{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 1800px;
+    left: 44%;
+}
+#Destinatii6{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 1800px;
+    right: 20%;
+}
+#di23{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 2174;
+    left: 20%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#di24{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 2174;
+    left: 44%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#di25{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 2174;
+    right: 20%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#di26{
+    position: absolute;
+    top: 2300;
+    background-color: grey;
+    width: 1900;
+    height: 19%;
+    opacity: 0.2;
+}
+#p25{
+    position: absolute;
+    top: 2400;
+    left: 50;
+    color: 1090AC;
+    font-size: 20;
+    
+}
+#i1{
+    position: absolute;
+    top:0;
+    left: 150;
+    background-color: white;
+}
+#i2{
+    position: absolute;
+    top:0;
+    left: 120;
+    background-color: white;
+}
+#p500{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+
+}
+#p501{
+    position: absolute;
+    top:30%;
+    left: 5%;
+
+}
+#di500{
+    background-color:B81515 ;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    position: absolute;
+    top: 30%;
+    right: 5%;
+    height: 30;
+    padding: 0px 5px;
+}
+/*-----------------------------------Pagina Destinatii--------------------- */
+#p26{
+    position: absolute;
+    top: 1700;
+    left: 20%;
+    font-size: 30;
+}
+#p27{
+    position: absolute;
+    top: 2300;
+    left: 20%;
+    font-size: 30;
+}
+
+#Destinatii7{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 2400px;
+    left: 20%;
+}
+#Destinatii8{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 2400px;
+    left: 44%;
+}
+#Destinatii9{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 2400px;
+    right: 20%;
+}
+#di27{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 2774;
+    left: 20%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#di28{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 2774;
+    left: 44%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#di29{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 2774;
+    right: 20%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#p28{
+    position: absolute;
+    top: 2900;
+    left: 20%;
+    font-size: 30;
+
+}
+#Destinatii10{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 3000px;
+    left: 20%;
+}
+#Destinatii11{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 3000px;
+    left: 44%;
+}
+#Destinatii12{
+    width: 249;
+    height: 374;
+    position: absolute;
+    top: 3000px;
+    right: 20%;
+}
+#di30{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 3374;
+    left: 20%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#di31{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 3374;
+    left: 44%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+#di32{
+    position: absolute;
+    background-color: D9D9D9;
+    top: 3374;
+    right: 20%;
+    width: 249;
+    height: 100;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+}
+/*-------------------------------- Pagina destinatii 2-------------------------------- */
+
+
+
+
+  #p30{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    color: black;
+    font-size: 20px;
+}
+#contactPoza1{
+    width: 695;
+    height: 1030;
+    position: absolute;
+    left:1208;
+}
+ #p31{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    color: black;
+    font-size: 30px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#p32{
+    position: absolute;
+    top: 35%;
+    left: 20%;
+    color: black;
+    font-size: 20;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#p33{
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    color: black;
+    font-size: 20;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#p34{
+    position: absolute;
+    top: 47%;
+    left:20%;
+    color: black;
+    font-size: 20;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#p35{
+    position: absolute;
+    top: 60%;
+    left:20%;
+    color: black;
+    font-size: 20; 
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+  #p36{
+    position: absolute;
+    top: 80%;
+    left: 31%;
+    color: black;
+   
+}
+#b30{
+    padding: 10px 30px;
+    border-radius: 100px;
+    font-size: 20px;
+    color:3D5CCD;
+} 
+#f1{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    height: 2.5%;
+    border-radius: 15px;
+    box-shadow: 5px 10px 10px grey;
+    opacity: .4;
+}
+#f2{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    height: 2.5%;
+    border-radius: 15px;
+    box-shadow: 5px 10px 10px grey;
+    opacity: .4;
+}
+#f3{
+    position: absolute;
+    top: 52%;
+    left: 20%;
+    width: 30%;
+    height: 2.5%;
+    border-radius: 15px;
+    box-shadow: 5px 10px 10px grey;
+    opacity: .4;
+}
+#f4{
+    position: absolute;
+    top: 65%;
+    left: 20%;
+    width: 30%;
+    height: 10%;
+    border-radius: none;
+    text-align: left;
+    box-shadow: 5px 10px 10px grey;
+    opacity: .4;
+    
+}
+#p40{
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    color: black;
+    font-size: 50px;
+}
+/*----------------Pagina Contact ----------------------------------------------*/
